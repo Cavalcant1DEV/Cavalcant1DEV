@@ -1,8 +1,8 @@
 ## 👋Hello!
 
-Eu sou Victor Hugo,
+Hey dudes i'm Victor Hugo,
 
-Estudante de Ciências da Computação|Desenvolvedor fullstack (Em aprendizado)
+Student of computer science|Full stack developer (In learning)
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcant1DEV&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcant1DEV&layout=compact&theme=tokyonight"/>
