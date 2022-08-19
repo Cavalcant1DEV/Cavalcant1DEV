@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Cavalcant1DEV
-- 👀 I’m interested in get professional experience
-- 🌱 I’m currently learning phyton, javascript and database security
-- 💞️ I’m looking to collaborate on all i can.
-- 📫 You can reach me by this number address: (81) 99788-6767
+## 👋Hello!
 
-<!---
-Cavalcant1DEV/Cavalcant1DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Eu sou Victor Hugo,
+
+Estudante de Ciências da Computação|Desenvolvedor fullstack (Em aprendizado)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cavalcant1DEV&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cavalcant1DEV&layout=compact&theme=tokyonight"/>
+</div>
+### Contact me📲:
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=558197886767&text=)
+
+### Technologies and tools I use🔨:
+<div>
+<img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+<div>
