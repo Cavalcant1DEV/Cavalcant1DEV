@@ -18,5 +18,4 @@ Student of computer science|Full stack developer (In learning)
 <img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img alt="Cavalcanti's image", width=40 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 <div>
