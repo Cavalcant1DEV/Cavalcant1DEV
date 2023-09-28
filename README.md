@@ -1,4 +1,3 @@
-## 👋Hello!
 
 Hey dudes i'm Victor Hugo,
 
